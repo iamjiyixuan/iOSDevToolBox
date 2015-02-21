@@ -23,7 +23,17 @@
 ## 依赖包管理
 工具 | 描述 |
 ------ | ------ |
-[CocoaPods][CocoaPods] | CocoaPods manages dependencies for your Xcode projects. |
+[CocoaPods][CocoaPods] | Ruby编写的命令行工具，CocoaPods manages dependencies for your Xcode projects. |
+
+## 国际化
+工具 | 描述 |
+------ | ------ |
+[Twine][Twine] | Ruby编写的命令行工具，Twine is a command line tool for managing your strings and their translations.  |
+
+## 模型
+库 | 描述 |
+--- | ------ |
+[Mantle][Mantle] | Mantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application. |
 
 ## 字符串处理
 库 | 描述 |
@@ -66,6 +76,10 @@
 [LBBlurredImage][LBBlurredImage] | <img src="./images/LBBlurredImage.png" width="200px" /> |
 [RMStepsController][RMStepsController] | <img src="./images/RMStepsController.png" width="200px" /> |
 [JCDialPad][JCDialPad] | <img src="./images/JCDialPad.png" width="200px" /> | 
+[RGCardViewLayout][RGCardViewLayout] | <img src="./images/RGCardViewLayout.gif" width="200px" /> |
+[PNChart][PNChart] | <img src="./images/PNChart.gif" width="200px" /> |
+[JTCalendar][JTCalendar] | <img src="./images/JTCalendar.gif" width="200px" /> |
+[FancyTabBar][FancyTabBar] | <img src="./images/FancyTabBar.gif" width="350px" /> |
 [RKNotificationHub][RKNotificationHub] | <img src="./images/RKNotificationHub.gif" width="350px" /> |
 [SWTableViewCell][SWTableViewCell] | <img src="./images/SWTableViewCell.gif" width="350px" /> |
 
@@ -75,6 +89,12 @@
 
 [依赖包管理]: ""
 [CocoaPods]: https://github.com/CocoaPods/CocoaPods "CocoaPods"
+
+[国际化]: ""
+[Twine]:https://github.com/mobiata/twine "Twine"
+
+[模型]: ""
+[Mantle]:https://github.com/Mantle/Mantle "Mantle"
 
 [字符串处理]: ""
 [iso-8601-date-formatter]:https://github.com/boredzo/iso-8601-date-formatter "iso-8601-date-formatter"
@@ -104,4 +124,8 @@
 [LBBlurredImage]:https://github.com/lukabernardi/LBBlurredImage "LBBlurredImage"
 [RMStepsController]:https://github.com/CooperRS/RMStepsController "RMStepsController"
 [JCDialPad]:https://github.com/jconst/JCDialPad "JCDialPad"
+[RGCardViewLayout]:https://github.com/terminatorover/RGCardViewLayout "RGCardViewLayout"
 [SWTableViewCell]:https://github.com/CEWendel/SWTableViewCell "SWTableViewCell"
+[FancyTabBar]:https://github.com/marvelapp/FancyTabBar "FancyTabBar"
+[PNChart]:https://github.com/kevinzhow/PNChart "PNChart"
+[JTCalendar]:https://github.com/jonathantribouharet/JTCalendar "JTCalendar"
