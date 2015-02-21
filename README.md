@@ -21,7 +21,7 @@
 ## Xcode插件
 名称 | 描述 |
 ------ | ------ |
-[XAlign][XAlign] | 用于竖向对齐<br/><img src="./images/XAlign.gif" width="350px" /> |
+[XAlign][XAlign] | 用于竖向对齐<br/><img src="images/XAlign.gif" width="350px" /> |
 [VVDocumenter-Xcode][VVDocumenter-Xcode] | 喵神作品，用于快速添加注释。 <br/><img src="./images/VVDocumenter-Xcode.gif" width="350px" /> |
 
 ## 依赖包管理
