@@ -16,7 +16,7 @@
  * [UI控件](#ui控件)
 
 ## 前言
-本文档旨在整理iOS开发中实用的工具和第三方开发库。本文档列表将不断更新维护 ~
+本文档旨在整理iOS开发中实用的工具和第三方开源库。本文档将不断更新维护 ~
 
 ## Xcode插件
 名称 | 描述 |
@@ -90,10 +90,14 @@
 [RGCardViewLayout][RGCardViewLayout] | <img src="./images/RGCardViewLayout.gif" width="200px" /> |
 [PNChart][PNChart] | <img src="./images/PNChart.gif" width="200px" /> |
 [JTCalendar][JTCalendar] | <img src="./images/JTCalendar.gif" width="200px" /> |
+[CHTumblrMenuView][CHTumblrMenuView] | <img src="./images/CHTumblrMenuView.gif" width="200px" /> |
 [FancyTabBar][FancyTabBar] | <img src="./images/FancyTabBar.gif" width="350px" /> |
 [RKNotificationHub][RKNotificationHub] | <img src="./images/RKNotificationHub.gif" width="350px" /> |
 [SWTableViewCell][SWTableViewCell] | <img src="./images/SWTableViewCell.gif" width="350px" /> |
+[JVFloatLabeledTextField][JVFloatLabeledTextField] | <img src="./images/JVFloatLabeledTextField.gif" width="350px" /> |
+[CBStoreHouseRefreshControl][CBStoreHouseRefreshControl] | <img src="./images/CBStoreHouseRefreshControl.gif" width="350px" /> |
 
+[----]: "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 [Xcode插件]: ""
 [XAlign]:https://github.com/qfish/XAlign "XAlign"
 [VVDocumenter-Xcode]:https://github.com/onevcat/VVDocumenter-Xcode "VVDocumenter-Xcode"
@@ -145,3 +149,6 @@
 [FancyTabBar]:https://github.com/marvelapp/FancyTabBar "FancyTabBar"
 [PNChart]:https://github.com/kevinzhow/PNChart "PNChart"
 [JTCalendar]:https://github.com/jonathantribouharet/JTCalendar "JTCalendar"
+[CHTumblrMenuView]:https://github.com/cyndibaby905/TumblrMenu "CHTumblrMenuView"
+[JVFloatLabeledTextField]:https://github.com/jverdi/JVFloatLabeledTextField "JVFloatLabeledTextField"
+[CBStoreHouseRefreshControl]:https://github.com/coolbeet/CBStoreHouseRefreshControl "CBStoreHouseRefreshControl"
