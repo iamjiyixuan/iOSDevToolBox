@@ -29,9 +29,11 @@
 [NUI][NUI] | Style iOS apps with a stylesheet, similar to CSS. |
 
 ## UI控件
-控件 | 描述 | 示意图 |
------- | ------ | --------- |
-[JSQMessagesViewController][JSQMessagesViewController] | 消息气泡 + 消息输入框 | <img src="./images/JSQMessagesViewController.png" width="350px" /> | 
+控件 | 效果 | 
+------ | ------ |
+[MBProgressHUD][MBProgressHUD] | <img src="./images/MBProgressHUD.png" width="200px" /> |
+[JSQMessagesViewController][JSQMessagesViewController] | <img src="./images/JSQMessagesViewController.png" width="200px" /> |
+[RKNotificationHub][RKNotificationHub] | <img src="./images/RKNotificationHub.gif" width="350px" /> |
 
 
 [XAlign]:https://github.com/qfish/XAlign "XAlign"
@@ -42,4 +44,6 @@
 [CocoaPods]: https://github.com/CocoaPods/CocoaPods
 [NUI]: https://github.com/tombenner/nui
 
+[MBProgressHUD]: https://github.com/jdg/MBProgressHUD "MBProgressHUD"
 [JSQMessagesViewController]:https://github.com/jessesquires/JSQMessagesViewController "JSQMessagesViewController"
+[RKNotificationHub]:https://github.com/cwRichardKim/RKNotificationHub "RKNotificationHub"
