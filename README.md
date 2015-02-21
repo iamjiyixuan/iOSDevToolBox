@@ -15,10 +15,10 @@
 本文档旨在整理iOS开发中实用的工具和第三方开发库。本文档列表将不断更新维护 ~
 
 ## Xcode插件
-插件 | 描述 | 示意图 |
------- | ------ | --------- |
-[XAlign][XAlign] | 用于竖向对齐 | <img src="./images/XAlign.gif" width="350px" /> |
-[VVDocumenter-Xcode][VVDocumenter-Xcode] | 喵神作品，用于快速添加注释。 | <img src="./images/VVDocumenter-Xcode.gif" width="350px" /> |
+插件 | 描述 |
+------ | ------ |
+[XAlign][XAlign] | 用于竖向对齐<br/><img src="./images/XAlign.gif" width="350px" /> |
+[VVDocumenter-Xcode][VVDocumenter-Xcode] | 喵神作品，用于快速添加注释。 <br/><img src="./images/VVDocumenter-Xcode.gif" width="350px" /> |
 
 ## 依赖包管理
 工具 | 描述 |
