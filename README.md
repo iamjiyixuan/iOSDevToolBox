@@ -10,6 +10,7 @@
 插件 | 描述 | 示意图 |
 ------ | ------ | --------- |
 [XAlign][XAlign] | 竖向对齐 | <img src="./images/XAlign.gif" alt="XAlign" width="400px" /> |
+[VVDocumenter-Xcode][VVDocumenter-Xcode] | 快速添加注释 | <img src="./images/VVDocumenter-Xcode.gif" alt="XAlign" width="400px" /> | 
 
 ## 依赖包管理
 
@@ -32,6 +33,7 @@
 
 
 [XAlign]:https://github.com/qfish/XAlign "XAlign"
+[VVDocumenter-Xcode]:https://github.com/onevcat/VVDocumenter-Xcode "VVDocumenter-Xcode"
 
 
 
