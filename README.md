@@ -63,7 +63,7 @@
 名称 | 描述 |
 ------ | ------ |
 [OCMock][OCMock] | 强大的Mock框架。 |
-[fir.im][fir.im] | App内测平台，FIR.im为移动开发者提供Beta App免费托管分发服务。 |
+[FIR.im][FIR.im] | App内测平台，FIR.im为移动开发者提供Beta App免费托管分发服务。 |
 
 ## UI样式管理
 名称 | 描述 |
@@ -121,7 +121,7 @@
 
 [测试]: ""
 [OCMock]:https://github.com/erikdoe/ocmock "OCMock"
-[fir.im]: http://fir.im/ "fir.im"
+[FIR.im]: http://fir.im/ "FIR.im"
 
 [UI样式管理]: ""
 [NUI]: https://github.com/tombenner/nui "NUI"
