@@ -9,8 +9,8 @@
 ## Xcode插件
 插件 | 描述 | 示意图 |
 ------ | ------ | --------- |
-[XAlign][XAlign] | 竖向对齐 | <img src="./images/XAlign.gif" alt="XAlign" width="400px" /> |
-[VVDocumenter-Xcode][VVDocumenter-Xcode] | 快速添加注释 | <img src="./images/VVDocumenter-Xcode.gif" alt="XAlign" width="400px" /> | 
+[XAlign][XAlign] | 竖向对齐 | <img src="./images/XAlign.gif" alt="XAlign" width="300px" /> |
+[VVDocumenter-Xcode][VVDocumenter-Xcode] | 快速添加注释 | <img src="./images/VVDocumenter-Xcode.gif" alt="XAlign" width="300px" /> | 
 
 ## 依赖包管理
 
