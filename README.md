@@ -14,6 +14,8 @@
  * [UI样式管理](#ui样式管理)
  * [UI布局](#ui布局)
  * [UI控件](#ui控件)
+  * [消息气泡](#消息气泡)
+  * [下拉刷新](#下拉刷新)
 
 ## 前言
 本文档旨在整理iOS开发中实用的工具和第三方开源库。本文档将不断更新维护 ~
@@ -84,7 +86,6 @@
 项目地址 | 描述 |
 ------------ | ------ |
 [jdg/MBProgressHUD][jdg/MBProgressHUD] <br/><iframe src="https://ghbtns.com/github-btn.html?user=jdg&repo=MBProgressHUD&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/MBProgressHUD.png" width="200px" /> |
-[jessesquires/JSQMessagesViewController][jessesquires/JSQMessagesViewController] <br/><iframe src="https://ghbtns.com/github-btn.html?user=jessesquires&repo=JSQMessagesViewController&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/JSQMessagesViewController.png" width="200px" /> |
 [cwRichardKim/RKNotificationHub][cwRichardKim/RKNotificationHub] <br/><iframe src="https://ghbtns.com/github-btn.html?user=cwRichardKim&repo=RKNotificationHub&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/LBBlurredImage.png" width="200px" /> |
 [CooperRS/RMStepsController][CooperRS/RMStepsController] <br/><iframe src="https://ghbtns.com/github-btn.html?user=CooperRS&repo=RMStepsController&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/RMStepsController.png" width="200px" /> |
 [jconst/JCDialPad][jconst/JCDialPad] <br/><iframe src="https://ghbtns.com/github-btn.html?user=jconst&repo=JCDialPad&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/JCDialPad.png" width="200px" /> | 
@@ -96,7 +97,18 @@
 [cwRichardKim/RKNotificationHub][cwRichardKim/RKNotificationHub] <br/><iframe src="https://ghbtns.com/github-btn.html?user=cwRichardKim&repo=RKNotificationHub&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/RKNotificationHub.gif" width="350px" /> |
 [CEWendel/SWTableViewCell][CEWendel/SWTableViewCell] <br/><iframe src="https://ghbtns.com/github-btn.html?user=CEWendel&repo=SWTableViewCell&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/SWTableViewCell.gif" width="350px" /> |
 [jverdi/JVFloatLabeledTextField][jverdi/JVFloatLabeledTextField] <br/><iframe src="https://ghbtns.com/github-btn.html?user=jverdi&repo=JVFloatLabeledTextField&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/JVFloatLabeledTextField.gif" width="350px" /> |
+
+### 消息气泡
+项目地址 | 描述 |
+------------ | ------ |
+[jessesquires/JSQMessagesViewController][jessesquires/JSQMessagesViewController] <br/><iframe src="https://ghbtns.com/github-btn.html?user=jessesquires&repo=JSQMessagesViewController&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/JSQMessagesViewController.png" width="200px" /> |
+[layerhq/Atlas-iOS][layerhq/Atlas-iOS] <br/><iframe src="https://ghbtns.com/github-btn.html?user=layerhq&repo=Atlas-iOS&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/Atlas-iOS.gif" width="200px" /> |
+
+### 下拉刷新
+项目地址 | 描述 |
+------------ | ------ |
 [coolbeet/CBStoreHouseRefreshControl][coolbeet/CBStoreHouseRefreshControl] <br/><iframe src="https://ghbtns.com/github-btn.html?user=coolbeet&repo=CBStoreHouseRefreshControl&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/CBStoreHouseRefreshControl.gif" width="350px" /> |
+[inspace-io/INSPullToRefresh][inspace-io/INSPullToRefresh] <br/><iframe src="https://ghbtns.com/github-btn.html?user=inspace-io&repo=INSPullToRefresh&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/INSPullToRefresh.gif" width="350px" /> |
 
 [----]: "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 [Xcode插件]: ""
@@ -140,7 +152,6 @@
 
 [UI控件]: ""
 [jdg/MBProgressHUD]: https://github.com/jdg/MBProgressHUD "jdg/MBProgressHUD"
-[jessesquires/JSQMessagesViewController]:https://github.com/jessesquires/JSQMessagesViewController "jessesquires/JSQMessagesViewController"
 [cwRichardKim/RKNotificationHub]:https://github.com/cwRichardKim/RKNotificationHub "cwRichardKim/RKNotificationHub"
 [lukabernardi/LBBlurredImage]:https://github.com/lukabernardi/LBBlurredImage "lukabernardi/LBBlurredImage"
 [CooperRS/RMStepsController]:https://github.com/CooperRS/RMStepsController "CooperRS/RMStepsController"
@@ -152,4 +163,9 @@
 [jonathantribouharet/JTCalendar]:https://github.com/jonathantribouharet/JTCalendar "jonathantribouharet/JTCalendar"
 [cyndibaby905/TumblrMenu]:https://github.com/cyndibaby905/TumblrMenu "cyndibaby905/TumblrMenu"
 [jverdi/JVFloatLabeledTextField]:https://github.com/jverdi/JVFloatLabeledTextField "jverdi/JVFloatLabeledTextField"
+
 [coolbeet/CBStoreHouseRefreshControl]:https://github.com/coolbeet/CBStoreHouseRefreshControl "coolbeet/CBStoreHouseRefreshControl"
+[inspace-io/INSPullToRefresh]:https://github.com/inspace-io/INSPullToRefresh "inspace-io/INSPullToRefresh"
+
+[jessesquires/JSQMessagesViewController]:https://github.com/jessesquires/JSQMessagesViewController "jessesquires/JSQMessagesViewController"
+[layerhq/Atlas-iOS]:https://github.com/layerhq/Atlas-iOS "layerhq/Atlas-iOS"
