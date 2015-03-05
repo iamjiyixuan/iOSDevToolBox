@@ -80,7 +80,7 @@
 项目地址 | 描述 |
 ------------ | ------ |
 [Masonry/Masonry][Masonry/Masonry] <br/><iframe src="https://ghbtns.com/github-btn.html?user=Masonry&repo=Masonry&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | 强大的自动布局框架，纯代码做布局的不二选择。 |
-[constraints.icodeforlove.com](http://constraints.icodeforlove.com/) | 自动生成自动布局代码。|
+[constraints.icodeforlove.com](http://constraints.icodeforlove.com/) | 自动生成约束代码。|
 
 ## UI控件
 项目地址 | 描述 |
@@ -109,6 +109,11 @@
 ------------ | ------ |
 [coolbeet/CBStoreHouseRefreshControl][coolbeet/CBStoreHouseRefreshControl] <br/><iframe src="https://ghbtns.com/github-btn.html?user=coolbeet&repo=CBStoreHouseRefreshControl&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/CBStoreHouseRefreshControl.gif" width="350px" /> |
 [inspace-io/INSPullToRefresh][inspace-io/INSPullToRefresh] <br/><iframe src="https://ghbtns.com/github-btn.html?user=inspace-io&repo=INSPullToRefresh&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/INSPullToRefresh.gif" width="350px" /> |
+
+### 表格索引栏
+项目地址 | 描述 |
+------------ | ------ |
+[beyondabel/BATableView][beyondabel/BATableView] <br/><iframe src="https://ghbtns.com/github-btn.html?user=beyondabel&repo=BATableView&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe> | <img src="./images/BATableView.gif" width="350px" /> |
 
 [----]: "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 [Xcode插件]: ""
@@ -169,3 +174,5 @@
 
 [jessesquires/JSQMessagesViewController]:https://github.com/jessesquires/JSQMessagesViewController "jessesquires/JSQMessagesViewController"
 [layerhq/Atlas-iOS]:https://github.com/layerhq/Atlas-iOS "layerhq/Atlas-iOS"
+
+[beyondabel/BATableView]:https://github.com/beyondabel/BATableView "beyondabel/BATableView"
