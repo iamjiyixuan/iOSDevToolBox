@@ -3,6 +3,7 @@
 ## 目录
  * [前言](#前言)
  * [Xcode插件](#xcode插件)
+ * [Xcode辅助](#xcode辅助)
  * [依赖包管理](#依赖包管理)
  * [国际化](#国际化)
  * [模型](#模型)
@@ -13,8 +14,13 @@
  * [数据库](#数据库)
  * [日志](#日志)
  * [测试](#测试)
+  * [单元测试](#单元测试)
+  * [内测](#内测)
+ * [Build](#build)
+ * [交互设计](#交互设计)
  * [UI样式管理](#ui样式管理)
  * [UI布局](#ui布局)
+ * [UI动画](#ui动画)
  * [UI控件](#ui控件)
   * [TextField](#textfield)
   * [TableCell](#tablecell)
@@ -32,18 +38,24 @@
 ## Xcode插件
 项目地址 | 描述 |
 ------------ | ------ |
-[qfish/XAlign](https://github.com/qfish/XAlign) | 用于竖向对齐，作者是中国人。 <br/><img src="./images/XAlign.gif" width="250px" /> |
-[onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) | 喵神作品，用于快速添加注释。 <br/><img src="./images/VVDocumenter-Xcode.gif" width="250px" /> |
+[qfish/XAlign](https://github.com/qfish/XAlign) | 国人作品，用于竖向对齐。 <br/><img src="./images/XAlign.gif" width="350px" /> |
+[onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) | 喵神作品，用于快速添加注释。 <br/><img src="./images/VVDocumenter-Xcode.gif" width="350px" /> |
+
+## Xcode辅助
+项目地址 | 描述 |
+------------ | ------ |
+[SimPholders](http://simpholders.com/) | 帮助你快速直接地访问iPhone模拟器应用的app文件所在目录。 |
 
 ## 依赖包管理
 项目地址 | 描述 |
 ------------ | ------ |
-[CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | iOS依赖包管理工具，Ruby编写。 |
+[CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | iOS依赖包管理工具，命令行工具，Ruby编写。 |
 
 ## 国际化
 项目地址 | 描述 |
 ------------ | ------ |
-[mobiata/twine](https://github.com/mobiata/twine) | Twine is a command line tool for managing your strings and their translations. |
+[mobiata/twine](https://github.com/mobiata/twine) | 命令行工具，Ruby编写，同时支持iOS和Android。 |
+[Linguan](http://www.peerassembly.com/linguan.html)（$） | GUI工具。 |
 
 ## 模型
 项目地址 | 描述 |
@@ -83,10 +95,26 @@
 [fpillet/NSLogger](https://github.com/fpillet/NSLogger)  | 日志框架，附带一个OS X桌面日志查看工具。 |
 
 ## 测试
+
+### 单元测试
 项目地址 | 描述 |
 ------------ | ------ |
 [erikdoe/ocmock](https://github.com/erikdoe/ocmock)  | 强大的Mock框架。 |
+
+### 内测
+项目地址 | 描述 |
+------------ | ------ |
 [FIR.im](http://fir.im/) | App内测平台，FIR.im为移动开发者提供Beta App免费托管分发服务。 |
+
+## Build
+项目地址 | 描述 |
+------------ | ------ |
+[facebook/xctool](https://github.com/facebook/xctool) | A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps. |
+
+## 交互设计
+项目地址 | 描述 |
+------------ | ------ |
+[facebook/origami](https://github.com/facebook/origami) | A Quartz Composer framework that enables interactive design prototyping without programming. |
 
 ## UI样式管理
 项目地址 | 描述 |
@@ -98,6 +126,11 @@
 ------------ | ------ |
 [Masonry/Masonry](https://github.com/Masonry/Masonry)  | 强大的布局框架，纯代码做布局的不二选择。 |
 [constraints.icodeforlove.com](http://constraints.icodeforlove.com/) | web应用，辅助生成约束代码。|
+
+## UI动画
+项目地址 | 描述 |
+------------ | ------ |
+[facebook/pop](https://github.com/facebook/pop) | 强大的动画库。|
 
 ## UI控件
 项目地址 | 描述 |
