@@ -38,6 +38,7 @@
 ## Xcode插件
 项目地址 | 描述 |
 ------------ | ------ |
+[Alcatraz](http://alcatraz.io/) | 插件管理 <br/><img src="./images/Alcatraz.png" width="350px" /> |
 [qfish/XAlign](https://github.com/qfish/XAlign) | 国人作品，用于竖向对齐。 <br/><img src="./images/XAlign.gif" width="350px" /> |
 [onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) | 喵神作品，用于快速添加注释。 <br/><img src="./images/VVDocumenter-Xcode.gif" width="350px" /> |
 
