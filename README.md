@@ -27,7 +27,7 @@
 - [MacDown](http://macdown.uranusjr.com/) - 开源的Markdown编辑器。
 - [SQLiteManager](http://www.sqlabs.com/sqlitemanager.php)（收费） - SQLite管理工具。
 - [Moom](http://manytricks.com/moom/)（收费） - 窗口管理
-- [SimPholders.com](http://simpholders.com/) - 快速访问iPhone模拟器的沙盒。
+- [SimPholders](http://simpholders.com/) - 快速访问iPhone模拟器的沙盒。
 - [Pocket](https://getpocket.com/) - 多平台离线阅读神器，方便收藏网页文章，支持云同步。
 - [Cocoa JSON Editor](http://www.cocoajsoneditor.com/)（收费） - 可视化JSON编辑器。
 
