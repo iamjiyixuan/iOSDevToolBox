@@ -7,34 +7,46 @@
 - [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode) - 格式化。
 - [XToDo](https://github.com/trawor/XToDo) - 管理`TODO`、`FIXME`、`???`、`!!!!`标记。
 
-## Mac软件
+## 软件
 
 ### 命令行工具
 - [bash](http://www.gnu.org/software/bash/) - 全称GNU Bash，OS X默认shell。
 - [Homebrew](http://brew.sh/) - 命令行软件管理工具。
 - [Ruby](https://www.ruby-lang.org/zh_cn/) - iOS开发中最常用的脚本语言，OS X预装了Ruby。
 - [rbenv](https://github.com/sstephenson/rbenv) - ruby环境管理工具。
-- [xctool](https://github.com/facebook/xctool) - 命令行工具，替代苹果官方的XcodeBuild工具，非Xcode环境下的构建利器，往往是持续集成的首选。
+- [xctool](https://github.com/facebook/xctool) - facebook出品的命令行工具，替代苹果官方的XcodeBuild工具，非Xcode环境下的构建利器，往往是持续集成的首选。
 - [appledoc](https://github.com/tomaz/appledoc) - 苹果风格文档生成器。
 - [CocoaPods](https://cocoapods.org/) - 依赖管理工具，作用类似Java开发中得Maven。
+- [gcc](https://gcc.gnu.org/) - 全称GNU Compiler Collection，最知名的C / C++ / Objective-C编译器。
+- [gcov](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html) - gcov is a tool you can use in conjunction with GCC to test code coverage in your programs.
+- [lcov](http://ltp.sourceforge.net/coverage/lcov.php) - LCOV is a graphical front-end for GCC's coverage testing tool gcov. It collects gcov data for multiple source files and creates HTML pages containing the source code annotated with coverage information. It also adds overview pages for easy navigation within the file structure. LCOV supports statement, function and branch coverage measurement.
+- [Gcovr](http://gcovr.com/) - The gcovr command provides a utility for managing the use of the GNU gcov utility and generating summarized code coverage results.
+- [XcodeCoverage](https://github.com/jonreid/XcodeCoverage)
+- [ATC](https://github.com/facebook/augmented-traffic-control) - facebook出品的一个网络环境模拟器。
+- [OCLint](http://oclint.org/) - 静态代码分析工具，支持C / C++ / Objective-C。
+- [Infer](https://github.com/facebook/infer) - facebook出品的静态代码分析工具，支持Java / Objective-C / C。
 
 ### App
-- [GitHub for Mac](https://mac.github.com/) - Github桌面客户端。
-- [Cornerstone](http://www.zennaware.com/cornerstone/index.php)（收费） - 目前最好的svn客户端。
+- [GitHub for Mac](https://mac.github.com/) - Github官方提供的mac客户端。
+- [Cornerstone](http://www.zennaware.com/cornerstone/index.php)（收费） - 目前mac平台最好的svn客户端。
 - [Sublime Text](http://www.sublimetext.com/) - 地球人都知道的文本编辑器。
 - [Oracle VM VirtualBox](https://www.virtualbox.org/) - 最强的免费开源虚拟机软件。
 - [Mou](http://25.io/mou/) - 老牌Markdown编辑器。
 - [MacDown](http://macdown.uranusjr.com/) - 开源的Markdown编辑器。
 - [SQLiteManager](http://www.sqlabs.com/sqlitemanager.php)（收费） - SQLite管理工具。
-- [Moom](http://manytricks.com/moom/)（收费） - 窗口管理
+- [Moom](http://manytricks.com/moom/)（收费） - 窗口管理。
 - [SimPholders](http://simpholders.com/) - 快速访问iPhone模拟器的沙盒。
 - [Pocket](https://getpocket.com/) - 多平台离线阅读神器，方便收藏网页文章，支持云同步。
 - [Cocoa JSON Editor](http://www.cocoajsoneditor.com/)（收费） - 可视化JSON编辑器。
 
+### Web 软件 / 服务
+- [fir.im](http://fir.im/) - 国内免费App托管、内测平台，支持iOS、Android。
+- [Jenkins](http://jenkins-ci.org) - Java编写的开源持续集成工具。
+
 ### 其他
 - [sqlite-manager for firefox](https://github.com/lazierthanthou/sqlite-manager) - 开源的firefox插件，用于管理SQLite。
 
-## 开源框架
+## 第三方开源框架
 
 ### 基础
 - [BlocksKit](https://github.com/zwaldowski/BlocksKit)
@@ -42,7 +54,8 @@
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing for iOS and OS X. 
 
 ### 数据模型
-- [Mantle](https://github.com/Mantle/Mantle) - JSON 数据模型化为 Model 对象。
+- [MJExtension](https://github.com/CoderMJLee/MJExtension) - 世界上转换速度最快、使用最简单方便的字典转模型框架。
+- [Mantle](https://github.com/Mantle/Mantle) - JSON数据模型化为Model对象。
 - [JSONModel](https://github.com/icanzilb/JSONModel)
 
 ### 网络
@@ -64,33 +77,53 @@
 ### 布局
 - [Masonry](https://github.com/SnapKit/Masonry) - 方便通过代码实现自动布局。
 
-### UI
+### UI组件.HUD
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
-- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 消息气泡
-- [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
-- [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
-- [Shimmer](https://github.com/facebook/Shimmer) - 闪烁效果
-- [PNChart](https://github.com/kevinzhow/PNChart) - 图表控件
-- [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
-- [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 仿Path菜单
+- [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
+
+### UI组件.Label
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
-- [tapkulibrary](https://github.com/devinross/tapkulibrary) - UI组件集合
+
+### UI组件.TextField
+- [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
+
+### UI组件.TableView
+- [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - UITableView的扩展，可以根据UITableViewCell内部的布局约束自动计算cell的高度。
+
+### UI组件.TableViewCell
+- [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application).
+
+### UI组件.Menu
+- [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 仿Path菜单。
+- [PopMenu](https://github.com/xhzengAIB/PopMenu) - 仿微博菜单，依赖pop实现动画效果。
+
+### UI组件.Refresh
+- [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
+- [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)
+
+### UI组件.Blur
+- [FXBlurView](https://github.com/nicklockwood/FXBlurView)
+
+### UI组件.Other
+- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 消息气泡
+- [TSMessages](https://github.com/KrauseFx/TSMessages) - This library provides an easy to use class to show little notification views on the top of the screen.
+- [Shimmer](https://github.com/facebook/Shimmer) - Shimmer is an easy way to add a shimmering effect to any view in your app. It's useful as an unobtrusive loading indicator.
+- [PNChart](https://github.com/kevinzhow/PNChart) - 图表控件
 - [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
 - [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - 文字输入框高度自适应
 - [DTCoreText](https://github.com/Cocoanetics/DTCoreText)
-- [TSMessages](https://github.com/KrauseFx/TSMessages)
 - [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
 - [QuickDialog](https://github.com/escoz/QuickDialog)
-- [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)
-- [FXBlurView](https://github.com/nicklockwood/FXBlurView)
-- [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
 
 ### 动画
-- [pop](https://github.com/facebook/pop)
+- [pop](https://github.com/facebook/pop) - facebook出品的强大动画库。
+- [popping](https://github.com/schneiderandre/popping)
 - [Canvas](https://github.com/CanvasPod/Canvas)
 - [JazzHands](https://github.com/IFTTT/JazzHands)
-- [popping](https://github.com/schneiderandre/popping)
+
+### 优化
+- [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - facebook提出的提升UI流畅度的解决方案。
 
 ### 样式管理
 - [nui](https://github.com/tombenner/nui) - 仿CSS
@@ -104,18 +137,22 @@
 - [Tweaks](https://github.com/facebook/Tweaks)
 
 ### 测试
+- [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C.
+- [Kiwi](https://github.com/kiwi-bdd/Kiwi) - 行为驱动开发测试框架。
+- [Expecta](https://github.com/specta/expectaa) - A matcher framework for Objective-C and Cocoa.
+- [OCMock](https://github.com/erikdoe/ocmock) - OCMock is an Objective-C implementation of mock objects.
+- [OCMockito](https://github.com/jonreid/OCMockito) - OCMockito is an iOS and Mac OS X implementation of Mockito, supporting creation, verification and stubbing of mock objects.
 - [KIF](https://github.com/kif-framework/KIF) - KIF, which stands for Keep It Functional, is an iOS integration test framework.
-- [Kiwi](https://github.com/kiwi-bdd/Kiwi) - 行为驱动开发测试框架
 
 ### SDK
 - [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)
 
+### 跨平台
+- [React Native](https://github.com/facebook/react-native) - facebook提出的一套跨平台解决方案，通过JavaScript编写移动端native的app。
+
 ## 开源 iOS App
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) - 新闻阅读器
 - [SocketRocket](https://github.com/square/SocketRocket)
-
-## Web服务 / 软件
-- [fir.im](http://fir.im/) - App托管、内测平台，支持iOS、Android。
 
 ## 更多
 - [awesome-ios](https://github.com/vsouza/awesome-ios#libraries-and-frameworks)
