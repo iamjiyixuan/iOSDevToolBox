@@ -1,9 +1,38 @@
 # iOS开发工具箱
 
-## Xcode
+## Xcode插件
 
-- [Alcatraz](https://github.com/supermarin/Alcatraz) - 可视化Xcode插件管理器。
-- [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 方便注释
+- [Alcatraz](https://github.com/supermarin/Alcatraz) - 可视化管理插件，本身也是插件。
+- [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 用于方便添加注释。
+- [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode) - 格式化。
+- [XToDo](https://github.com/trawor/XToDo) - 管理`TODO`、`FIXME`、`???`、`!!!!`标记。
+
+## Mac软件
+
+### 命令行工具
+- [bash](http://www.gnu.org/software/bash/) - 全称GNU Bash，OS X默认shell。
+- [Homebrew](http://brew.sh/) - 命令行软件管理工具。
+- [Ruby](https://www.ruby-lang.org/zh_cn/) - iOS开发中最常用的脚本语言，OS X预装了Ruby。
+- [rbenv](https://github.com/sstephenson/rbenv) - ruby环境管理工具。
+- [xctool](https://github.com/facebook/xctool) - 命令行工具，替代苹果官方的XcodeBuild工具，非Xcode环境下的构建利器，往往是持续集成的首选。
+- [appledoc](https://github.com/tomaz/appledoc) - 苹果风格文档生成器。
+- [CocoaPods](https://cocoapods.org/) - 依赖管理工具，作用类似Java开发中得Maven。
+
+### App
+- [GitHub for Mac](https://mac.github.com/) - Github桌面客户端。
+- [Cornerstone](http://www.zennaware.com/cornerstone/index.php)（收费） - 目前最好的svn客户端。
+- [Sublime Text](http://www.sublimetext.com/) - 地球人都知道的文本编辑器。
+- [Oracle VM VirtualBox](https://www.virtualbox.org/) - 最强的免费开源虚拟机软件。
+- [Mou](http://25.io/mou/) - 老牌Markdown编辑器。
+- [MacDown](http://macdown.uranusjr.com/) - 开源的Markdown编辑器。
+- [SQLiteManager](http://www.sqlabs.com/sqlitemanager.php)（收费） - SQLite管理工具。
+- [Moom](http://manytricks.com/moom/)（收费） - 窗口管理
+- [SimPholders.com](http://simpholders.com/) - 快速访问iPhone模拟器的沙盒。
+- [Pocket](https://getpocket.com/) - 多平台离线阅读神器，方便收藏网页文章，支持云同步。
+- [Cocoa JSON Editor](http://www.cocoajsoneditor.com/)（收费） - 可视化JSON编辑器。
+
+### 其他
+- [sqlite-manager for firefox](https://github.com/lazierthanthou/sqlite-manager) - 开源的firefox插件，用于管理SQLite。
 
 ## 开源框架
 
@@ -17,7 +46,7 @@
 - [JSONModel](https://github.com/icanzilb/JSONModel)
 
 ### 网络
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 地球人都知道的网络库。
 - [SDWebImage](https://github.com/rs/SDWebImage) - UIImageView的扩展，方便通过url下载、缓存图片资源。
 - [RestKit](https://github.com/RestKit/RestKit) - 方便访问 RESTful web API。
 - [Reachability](https://github.com/tonymillion/Reachability)
@@ -36,12 +65,13 @@
 - [Masonry](https://github.com/SnapKit/Masonry) - 方便通过代码实现自动布局。
 
 ### UI
+- [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 消息气泡
+- [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 - [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)
 - [Shimmer](https://github.com/facebook/Shimmer) - 闪烁效果
-- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 消息气泡
 - [PNChart](https://github.com/kevinzhow/PNChart) - 图表控件
 - [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
-- [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 - [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 仿Path菜单
 - [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)
 - [tapkulibrary](https://github.com/devinross/tapkulibrary) - UI组件集合
@@ -54,9 +84,6 @@
 - [QuickDialog](https://github.com/escoz/QuickDialog)
 - [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)
 - [FXBlurView](https://github.com/nicklockwood/FXBlurView)
-
-#### HUD
-- [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 - [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
 
 ### 动画
@@ -83,14 +110,12 @@
 ### SDK
 - [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)
 
-## 开源应用
+## 开源 iOS App
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) - 新闻阅读器
 - [SocketRocket](https://github.com/square/SocketRocket)
-- [Induction](https://github.com/Induction/Induction) - A Polyglot Database Client for Mac OS X.
-- [macdown](https://github.com/uranusjr/macdown)
 
-## 构建
-- [xctool](https://github.com/facebook/xctool) - 命令行工具，替代苹果官方的XcodeBuild工具，非Xcode环境下的构建利器，往往是持续集成的首选。
+## Web服务 / 软件
+- [fir.im](http://fir.im/) - App托管、内测平台，支持iOS、Android。
 
 ## 更多
 - [awesome-ios](https://github.com/vsouza/awesome-ios#libraries-and-frameworks)
