@@ -4,6 +4,7 @@
 
 - [Alcatraz](https://github.com/supermarin/Alcatraz) - 可视化管理插件，本身也是插件。
 - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 用于方便添加注释。
+- [XAlign](https://github.com/qfish/XAlign) - 竖向对齐。
 - [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode) - 格式化。
 - [XToDo](https://github.com/trawor/XToDo) - 管理`TODO`、`FIXME`、`???`、`!!!!`标记。
 
