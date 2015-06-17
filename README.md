@@ -78,6 +78,9 @@
 ### 布局
 - [Masonry](https://github.com/SnapKit/Masonry) - 方便通过代码实现自动布局。
 
+### 键盘管理
+- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+
 ### UI组件.HUD
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 - [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
