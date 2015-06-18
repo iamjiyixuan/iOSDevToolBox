@@ -97,10 +97,10 @@
 - [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - Baidu Zhidao iOS team出品，Builds to collapse a view and its relevant layout constraints, simulating a "Flow Layout" mode.
 
 ### 键盘管理
-- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+- [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 
 ### UI组件.HUD
-- [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
+- [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. The HUD is meant as a replacement for the undocumented, private UIKit UIProgressHUD with some additional features.
 - [SVProgressHUD](https://github.com/TransitApp/SVProgressHUD)
 
 ### UI组件.Label
