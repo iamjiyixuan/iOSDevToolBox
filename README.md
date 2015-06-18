@@ -26,6 +26,7 @@
 - [ATC](https://github.com/facebook/augmented-traffic-control) - facebook出品的一个网络环境模拟器。
 - [OCLint](http://oclint.org/) - 静态代码分析工具，支持C / C++ / Objective-C。
 - [Infer](https://github.com/facebook/infer) - facebook出品的静态代码分析工具，支持Java / Objective-C / C。
+- [gitbook](https://github.com/GitbookIO/gitbook) - GitBook is a command line tool (and Node.js library) for building beautiful books using GitHub/Git and Markdown (or AsciiDoc).
 
 ### App
 - [GitHub for Mac](https://mac.github.com/) - Github官方提供的mac客户端。
@@ -40,9 +41,22 @@
 - [Pocket](https://getpocket.com/) - 多平台离线阅读神器，方便收藏网页文章，支持云同步。
 - [Cocoa JSON Editor](http://www.cocoajsoneditor.com/)（收费） - 可视化JSON编辑器。
 
-### Web 软件 / 服务
+### Web 软件
+- [Jenkins](http://jenkins-ci.org) - 开源的持续集成工具（via Java）。
+
+### Web 服务
+- [ip.chinaz.com](http://ip.chinaz.com/) - 查询本机外网IP地址。
 - [fir.im](http://fir.im/) - 国内免费App托管、内测平台，支持iOS、Android。
-- [Jenkins](http://jenkins-ci.org) - Java编写的开源持续集成工具。
+- [蒲公英](http://www.pgyer.com/) - “蒲公英”是专为iOS、Android开发者提供的免费用应用内测、托管的平台，旨在解决开发者将应用分发给内测用户时的繁杂、低效的问题。
+- [LeetCode Online Judge](https://leetcode.com/) - LeetCode OJ is a platform for preparing technical coding interviews.
+
+### google镜像
+- [Google 镜像站搜集](http://www.itechzero.com/google-mirror-sites-collect.html)
+- [www.20hn.com/g.html](http://www.20hn.com/g.html)
+- [www.xiexingwen.com](http://www.xiexingwen.com/)
+
+### VPN
+- [云梯](https://www.cloudtizi.com/) - 付费VPN，使用方便，比较稳定。
 
 ### 其他
 - [sqlite-manager for firefox](https://github.com/lazierthanthou/sqlite-manager) - 开源的firefox插件，用于管理SQLite。
