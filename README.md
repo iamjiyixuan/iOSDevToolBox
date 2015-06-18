@@ -54,6 +54,9 @@
 - [Bolts-iOS](https://github.com/BoltsFramework/Bolts-iOS)
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing for iOS and OS X. 
 
+### 时间格式
+- [DateTools](https://github.com/MatthewYork/DateTools)
+
 ### 数据模型
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) - 世界上转换速度最快、使用最简单方便的字典转模型框架。
 - [Mantle](https://github.com/Mantle/Mantle) - JSON数据模型化为Model对象。
@@ -77,6 +80,7 @@
 
 ### 布局
 - [Masonry](https://github.com/SnapKit/Masonry) - 方便通过代码实现自动布局。
+- [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - Baidu Zhidao iOS team出品，Builds to collapse a view and its relevant layout constraints, simulating a "Flow Layout" mode.
 
 ### 键盘管理
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
@@ -92,7 +96,8 @@
 - [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
 
 ### UI组件.TableView
-- [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - UITableView的扩展，可以根据UITableViewCell内部的布局约束自动计算cell的高度。
+- [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - Baidu Zhidao iOS team出品，UITableView的扩展，可以根据UITableViewCell内部的布局约束自动计算cell的高度。
+- [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - 文字输入框高度自适应
 
 ### UI组件.TableViewCell
 - [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application).
@@ -108,15 +113,28 @@
 ### UI组件.Blur
 - [FXBlurView](https://github.com/nicklockwood/FXBlurView)
 
-### UI组件.Other
-- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - 消息气泡
-- [TSMessages](https://github.com/KrauseFx/TSMessages) - This library provides an easy to use class to show little notification views on the top of the screen.
-- [Shimmer](https://github.com/facebook/Shimmer) - Shimmer is an easy way to add a shimmering effect to any view in your app. It's useful as an unobtrusive loading indicator.
-- [PNChart](https://github.com/kevinzhow/PNChart) - 图表控件
-- [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
-- [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - 文字输入框高度自适应
-- [DTCoreText](https://github.com/Cocoanetics/DTCoreText)
+### UI组件.PhotoBrowser
 - [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+- [MJPhotoBrowser](https://github.com/azxfire/MJPhotoBrowser)
+
+### UI组件.Chart
+- [PNChart](https://github.com/kevinzhow/PNChart) - 图表控件
+
+### UI组件.Messaging
+- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
+- [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) - Atlas is a library of native iOS communications user interface components for Layer.
+- [Atlas-Messenger-iOS](https://github.com/layerhq/Atlas-Messenger-iOS) - The Atlas Messenger Example App for iOS.
+
+### UI组件.Notification
+- [TSMessages](https://github.com/KrauseFx/TSMessages) - This library provides an easy to use class to show little notification views on the top of the screen.
+
+### UI组件.Gesture
+- [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) - Baidu Zhidao iOS team出品
+
+### UI组件.Other
+- [Shimmer](https://github.com/facebook/Shimmer) - Shimmer is an easy way to add a shimmering effect to any view in your app. It's useful as an unobtrusive loading indicator.
+- [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)
+- [DTCoreText](https://github.com/Cocoanetics/DTCoreText)
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController)
 - [QuickDialog](https://github.com/escoz/QuickDialog)
 
