@@ -69,7 +69,8 @@
 - [KVOController](https://github.com/facebook/KVOController) - Simple, modern, thread-safe key-value observing for iOS and OS X. 
 
 ### 时间格式
-- [DateTools](https://github.com/MatthewYork/DateTools)
+- [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C.
+- [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
 
 ### 数据模型
 - [MJExtension](https://github.com/CoderMJLee/MJExtension) - 世界上转换速度最快、使用最简单方便的字典转模型框架。
