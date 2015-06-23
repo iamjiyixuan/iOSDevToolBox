@@ -138,6 +138,7 @@
 ### UI组件.Calendar
 - [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) - JTCalendar is an easily customizable calendar control for iOS.
 - [MSCollectionViewCalendarLayout](https://github.com/erichoracek/MSCollectionViewCalendarLayout) - MSCollectionViewCalendarLayout is a UICollectionViewLayout subclass for displaying chronological data. It divides its cells into columns of days, with the size of each cell corresponding to its length. MSCollectionViewCalendarLayout is very similar to the "Week" view in the Apple Calendar/iCal app. See the example screenshots for what this looks like.
+- [ABCalendarPicker](https://github.com/k06a/ABCalendarPicker) - Fully configurable iOS calendar UI component with multiple layouts and smooth animations.
 
 ### UI组件.Messaging
 - [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS.
