@@ -98,7 +98,7 @@
 - [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints) - Baidu Zhidao iOS team出品，Builds to collapse a view and its relevant layout constraints, simulating a "Flow Layout" mode.
 
 ### 颜色
-
+- [HexColors](https://github.com/mRs-/HexColors) - Easy HEX- and RGB-Color Handling for UIColor and NSColor as a drop in category. 
 
 ### 键盘管理
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
@@ -124,6 +124,14 @@
 - [AwesomeMenu](https://github.com/levey/AwesomeMenu) - 仿Path菜单。
 - [PopMenu](https://github.com/xhzengAIB/PopMenu) - 仿微博菜单，依赖pop实现动画效果。
 
+### UI组件.Alert
+- [SCLAlertView](https://github.com/dogo/SCLAlertView) - Beautiful animated Alert View. Written in Swift but ported to Objective-C.
+- [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert)
+- [ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview)
+- [DXAlertView](https://github.com/xiekw2010/DXAlertView)
+- [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert)
+- [TSMessages](https://github.com/KrauseFx/TSMessages) - This library provides an easy to use class to show little notification views on the top of the screen.
+
 ### UI组件.Refresh
 - [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 - [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)
@@ -148,8 +156,7 @@
 - [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) - Atlas is a library of native iOS communications user interface components for Layer.
 - [Atlas-Messenger-iOS](https://github.com/layerhq/Atlas-Messenger-iOS) - The Atlas Messenger Example App for iOS.
 
-### UI组件.Notification
-- [TSMessages](https://github.com/KrauseFx/TSMessages) - This library provides an easy to use class to show little notification views on the top of the screen.
+
 
 ### UI组件.Gesture
 - [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) - Baidu Zhidao iOS team出品
