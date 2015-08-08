@@ -156,8 +156,6 @@
 - [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) - Atlas is a library of native iOS communications user interface components for Layer.
 - [Atlas-Messenger-iOS](https://github.com/layerhq/Atlas-Messenger-iOS) - The Atlas Messenger Example App for iOS.
 
-
-
 ### UI组件.Gesture
 - [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) - Baidu Zhidao iOS team出品
 
@@ -205,6 +203,7 @@
 ## 开源 iOS App
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) - 新闻阅读器
 - [SocketRocket](https://github.com/square/SocketRocket)
+- [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - This repository contains the source code for the GitBucket iOS app. It is a mobile client app for GitHub, built using MVVM architectural pattern and some awesome frameworks, such as ReactiveCocoa、Mantle、octokit.objc, etc. You can use it for any purpose, free of charge.
 
 ## 更多
 - [awesome-ios](https://github.com/vsouza/awesome-ios#libraries-and-frameworks)
